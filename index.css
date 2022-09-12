@@ -1,0 +1,190 @@
+.mainbody{
+    background-image: url(./images/erik-mclean-lggfb2lWIJU-unsplash\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.square{
+    height: 45vh;
+    margin: 200px 400px 200px 400px;
+    display: flex;
+    box-shadow: 0px 4px 40px #e7e7e7
+}
+
+.home{
+    font-family: Inter;
+    font-size: x-large;
+    width: 100%;
+    background-color: white;
+    opacity: 90%;
+    border-radius: 10px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.iniciosesion{
+    padding-bottom: 20px;
+}
+
+.usuario{
+    margin-bottom: 20px;
+    font-family: Inter;
+    color: black;
+    height: 26px;
+    border-radius: 8px;
+    border-width: 1px;
+    padding: 7px;
+    padding-left: 12px;
+    border-color: #8d8d92;
+    border-style: solid;
+}
+
+.contrasena{
+    margin-bottom: 20px;
+    font-family: Inter;
+    color: black;
+    height: 26px;
+    border-radius: 8px;
+    border-width: 1px;
+    padding: 7px;
+    padding-left: 12px;
+    border-color: #8d8d92;
+    border-style: solid;
+}
+
+.submit{
+    font-family: Inter;
+    background-color: #00A36F;
+    color: white;
+    height: 26px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+}
+
+.submit:hover{
+    background-color: #9AB143;
+    cursor: pointer;
+}
+
+.secbody{
+    background-image: url(./images/erik-mclean-lggfb2lWIJU-unsplash\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.opciones{
+    padding-top: 230px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.consultar{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    opacity: 90%;
+    box-shadow: 0px 4px 40px #e7e7e7;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+}
+
+.saldo{
+    padding-bottom: 15px;
+    font-size: x-large;
+}
+
+.ingresar{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    opacity: 90%;
+    box-shadow: 0px 4px 40px #e7e7e7;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+}
+
+.aumentar{
+    padding-bottom: 15px;
+    font-size: x-large;
+}
+
+.ingMonto{
+    margin-bottom: 20px;
+    font-family: Inter;
+    color: black;
+    height: 26px;
+    border-radius: 8px;
+    border-width: 1px;
+    padding: 7px;
+    padding-left: 12px;
+    border-color: #8d8d92;
+    border-style: solid; 
+}
+
+.retirar{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    opacity: 90%;
+    box-shadow: 0px 4px 40px #e7e7e7;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+}
+
+.restar{
+    padding-bottom: 15px;
+    font-size: x-large;
+}
+
+.retMonto{
+    margin-bottom: 20px;
+    font-family: Inter;
+    color: black;
+    height: 26px;
+    border-radius: 8px;
+    border-width: 1px;
+    padding: 7px;
+    padding-left: 12px;
+    border-color: #8d8d92;
+    border-style: solid; 
+}
+
+.select{
+    font-family: Inter;
+    background-color: #00A36F;
+    color: white;
+    height: 26px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+}
+
+.select:hover{
+    background-color: #9AB143;
+    cursor: pointer;
+}
